@@ -1,0 +1,1 @@
+# Predictive-Maintenance-of-Machinery-Using-Temperature-Vibration-Analysis
